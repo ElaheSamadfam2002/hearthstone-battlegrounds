@@ -1,6 +1,6 @@
 ## Basic Info
 
-- Team name:
+- Team name: EMM
 - Branch name: `team/<EMM>`
 - Members:
   - Elahe Samadfam — 610300069
